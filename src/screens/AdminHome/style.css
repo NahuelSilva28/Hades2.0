@@ -1,0 +1,182 @@
+.admin-home {
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.admin-home .div {
+  background-color: #f2f2f2;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.admin-home .hub {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 312px;
+}
+
+.admin-home .overlap-group {
+  background-color: #2b2b2b;
+  height: 1024px;
+  position: relative;
+  width: 304px;
+}
+
+.admin-home .overlap {
+  background-color: #0532a4;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 20px;
+  height: 66px;
+  left: 26px;
+  position: absolute;
+  top: 179px;
+  width: 251px;
+}
+
+.admin-home .text-wrapper {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 300;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 153px;
+}
+
+.admin-home .home-page {
+  height: 38px;
+  left: -1px;
+  position: absolute;
+  top: 13px;
+  width: 76px;
+}
+
+.admin-home .overlap-2 {
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 344px;
+  width: 202px;
+}
+
+.admin-home .img {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.admin-home .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 300;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 153px;
+}
+
+.admin-home .overlap-3 {
+  height: 38px;
+  left: 26px;
+  position: absolute;
+  top: 278px;
+  width: 202px;
+}
+
+.admin-home .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 300;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.5;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 153px;
+}
+
+.admin-home .menu-vertical {
+  height: 43px;
+  left: 218px;
+  position: absolute;
+  top: 106px;
+  width: 36px;
+}
+
+.admin-home .overlap-4 {
+  height: 136px;
+  left: 84px;
+  position: absolute;
+  top: 12px;
+  width: 133px;
+}
+
+.admin-home .male-user {
+  height: 106px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 127px;
+}
+
+.admin-home .text-wrapper-4 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 101px;
+  width: 133px;
+}
+
+.admin-home .good-morning-samuel {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  left: 383px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  width: 366px;
+}
+
+.admin-home .span {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.admin-home .text-wrapper-5 {
+  font-size: 30px;
+}
